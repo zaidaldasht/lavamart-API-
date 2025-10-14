@@ -1,0 +1,6 @@
+@lavamart_HostAddress = http://localhost:5258
+
+GET {{lavamart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

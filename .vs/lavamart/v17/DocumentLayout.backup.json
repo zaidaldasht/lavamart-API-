@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zaidd\\source\\repos\\lavamart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F4B2D-BE6D-4014-BC27-024225ED5CF6}|lavamart\\lavamart.csproj|c:\\users\\zaidd\\source\\repos\\lavamart\\lavamart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1F4B2D-BE6D-4014-BC27-024225ED5CF6}|lavamart\\lavamart.csproj|solutionrelative:lavamart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F4B2D-BE6D-4014-BC27-024225ED5CF6}|lavamart\\lavamart.csproj|c:\\users\\zaidd\\source\\repos\\lavamart\\lavamart\\models\\dtoproductsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1F4B2D-BE6D-4014-BC27-024225ED5CF6}|lavamart\\lavamart.csproj|solutionrelative:lavamart\\models\\dtoproductsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F4B2D-BE6D-4014-BC27-024225ED5CF6}|lavamart\\lavamart.csproj|c:\\users\\zaidd\\source\\repos\\lavamart\\lavamart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1F4B2D-BE6D-4014-BC27-024225ED5CF6}|lavamart\\lavamart.csproj|solutionrelative:lavamart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F4B2D-BE6D-4014-BC27-024225ED5CF6}|lavamart\\lavamart.csproj|c:\\users\\zaidd\\source\\repos\\lavamart\\lavamart\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1F4B2D-BE6D-4014-BC27-024225ED5CF6}|lavamart\\lavamart.csproj|solutionrelative:lavamart\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dtoproductsfilter.cs",
+              "DocumentMoniker": "C:\\Users\\zaidd\\source\\repos\\lavamart\\lavamart\\models\\dtoproductsfilter.cs",
+              "RelativeDocumentMoniker": "lavamart\\models\\dtoproductsfilter.cs",
+              "ToolTip": "C:\\Users\\zaidd\\source\\repos\\lavamart\\lavamart\\models\\dtoproductsfilter.cs",
+              "RelativeToolTip": "lavamart\\models\\dtoproductsfilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:50:55.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\zaidd\\source\\repos\\lavamart\\lavamart\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "lavamart\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\zaidd\\source\\repos\\lavamart\\lavamart\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "lavamart\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:29:01.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zaidd\\source\\repos\\lavamart\\lavamart\\Program.cs",
+              "RelativeDocumentMoniker": "lavamart\\Program.cs",
+              "ToolTip": "C:\\Users\\zaidd\\source\\repos\\lavamart\\lavamart\\Program.cs",
+              "RelativeToolTip": "lavamart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:24:46.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zaidd\\source\\repos\\lavamart\\lavamart\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "lavamart\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\zaidd\\source\\repos\\lavamart\\lavamart\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "lavamart\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:35:25.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
